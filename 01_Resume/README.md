@@ -1,3 +1,3 @@
 # Resume
 
-This folder contains my resume versions.
+This folder holds my resume versions.
